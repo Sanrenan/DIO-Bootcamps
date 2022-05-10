@@ -1,5 +1,6 @@
-# Desafio de projeto sobre Git/GitHub da Dio.
-Repositório criado para o Desafio de Projeto.
+# Digital Inovation One - Bootcamps
+Repositório criado para guardar e documentar o meu progresso nos bootcamps da Digital Inovation One.
 
-## Links Uteis
-[sintaxe básica markdown](https://www.markdownguide.org/basic-syntax/)
+## Bootcamps que participei: 
+1. Inter Frontend Developer
+2. Órbi Web Games Developer
